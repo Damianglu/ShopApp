@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275357942151",
+    "firebase_url": "https://damian-sshop-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "damian-sshop",
+    "storage_bucket": "damian-sshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275357942151:android:b53d8067374d85466ed322",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275357942151-1di3e7qohrprj05snmr5cvditdomslqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingapp",
+            "certificate_hash": "f5de5cb32a7c1e23e3959eb4947619e7947a1c44"
+          }
+        },
+        {
+          "client_id": "275357942151-qr7rgmsr5immanjs7eal5nmtj9g1v3jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqbzj6dHlnYIQRHf8fPdKm0IMItPpIzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275357942151-qr7rgmsr5immanjs7eal5nmtj9g1v3jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
