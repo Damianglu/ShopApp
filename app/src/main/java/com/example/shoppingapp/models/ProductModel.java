@@ -61,6 +61,8 @@ public class ProductModel implements Parcelable {
         dest.writeInt(selectedPosition);
     }
 
+
+
     @Override
     public int describeContents() {
         return 0;
